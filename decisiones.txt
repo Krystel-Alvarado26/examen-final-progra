@@ -1,1 +1,2 @@
-
+Gracias a que el ejercicio era parecido a mi proyecto final, tuve una idea rapida de como poder realizarlo, junto con qué tablas y como.
+Una de las dificultades más grandes fue que me daba errores a la hora de intentar enviar los datos a la base, siendo este el principal trabajo de la IA. le consulté cual era el problema o que estaba haciendo mal, y era un problema de autenticación de supabase, donde hacia comparaciones de usuario y si no estaba en la base no dejaba ingresar los datos de ninguna manera.
